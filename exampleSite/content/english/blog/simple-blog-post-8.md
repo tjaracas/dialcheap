@@ -1,8 +1,8 @@
 ---
 title: What Does Cloud Telephony Mean?
 date: 2018-09-12T14:51:12.000+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image_webp: "/images/cloud2.webp"
+image: "/images/cloud2.jpg"
 author: Tjapko Smits
 description: 'Cloud telephony hosted PBX Voice ocer IP Internet calling cheap world
   wide tariff '
