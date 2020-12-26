@@ -1,82 +1,48 @@
 ---
-title: "How To Setup Meghna Hugo"
+title: "How To Setup Dial.Cheap"
 date: 2018-09-12T14:51:12+06:00
-author: Mark Dinn
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
+author: Tjapko Smits
+image_webp: images/blog/dialcheapsetup.webp
+image: images/blog/dialcheapsetup.jpg
 description : "This is meta description"
 ---
 
-## Install this template by following those simple steps:
+## Install your Cloud Telephony or Hosted PBX system following these easy steps:
 
-### STEP-1 : Hugo installation
+### STEP-1 : Dial.Cheap Registration
 
-Check this link below for install hugo on your computer.
-[hugo install documentation](https://gohugo.io/getting-started/installing/)
+Click on this link to go to the Dial.Cheap Registration web page
+[Dial Cheap Registration link](https://dial.cheap/)
 
-### STEP-2 : Create your project
+Before you click on this link read this post untill the end. 
+![image alt text](/images/blog/signin.jpg)
+### STEP-2 : Make an account with us
 
-Hugo provides a `new` command to create a new website.
-
-```
-hugo new site <new_project>
-```
-
-### STEP-3 : Install the theme
-Run this command
-```
-hugo new site meghna-hugo
-```
-and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
-Then run the command 
-```
-git clone git@github.com:themefisher/meghna-hugo.git
-```
-
-Alternatively, you can [download the theme as .zip](https://github.com/themefisher/meghna-hugo/archive/master.zip) file and extract it in the `themes` directory
-
-After that you need to go to the `meghna-hugo/exampleSite` folder and copy or cut all the elements, and now go back to the root folder and paste it here.
-
-open the command prompt again and run `cd ../` command for go back to the root folder.
-
-### STEP-4 : Host locally
-
-Launching the website locally by using the following command:
+Sign in using your Facebook or Google account or sign up using your email address.
 
 ```
-hugo serve
+Follow the on screen instructions
 ```
 
-Go to `http://localhost:1313`
-
-Or you can check this video documentation for installing this template:
-{{< youtube 3O3qvDoVp5g >}}
-
-### STEP-5 : Basic configuration
-
-When building the website, you can set a theme by using `--theme` option. However, we suggest you modify the configuration file (`config.toml`) and set the theme as the default.
-
-```toml
-# Change the default theme to be use when building the site with Hugo
-theme = "meghna-hugo"
+### STEP-3 : Fill out the next screen as follows
+![image alt text](/images/blog/newpbx.jpg)
+```
+PBX name = Choose any name you like for your Hosted PBX
+Domain = Fill out any unique name to register your own domain name
+Language = Select the appropiate language for your Customer interface
+Timezone = Fill out the Timezone in which you prefer to work
+Press Create when ready
+Redo this operation when the selected Domain Name is not unique.
 ```
 
-### STEP-6 : Create your first content pages
-
+### STEP-4 : You are finished and ready to configure. Your Dashboard has several menu options each described in their own Blog post. 
+![image alt text](/images/blog/dashboard.jpg)
 ```
-hugo new blog/post-name.md
+Dashboard (Link to Dashboard post)
+Endpoints =(Link to blog post Endpoints)
+Incoming Numbers (Link to incoming numbers post)
+Calls ( Link to Calls blog post)
+Ringgroups =( Link to Blogpost Ringgroups)
+Finance =( Link to Blogpost Grandstream light)
+Settings Link to settings Blog Post 
 ```
-
-### STEP-7 : Build the website
-
-When your site is ready to deploy, run the following command:
-
-```
-hugo
-
-# You can also create a minified version by using this command:
-hugo--minify
-
-```
-
-A `public` folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
