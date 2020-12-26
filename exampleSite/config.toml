@@ -1,4 +1,4 @@
-baseURL = "https://startvoice.netlify.com"
+baseURL = "https://dialcheap.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
