@@ -1,12 +1,13 @@
 ---
-title: "What Does Cloud Telephony Mean?"
-date: 2018-09-12T14:51:12+06:00
+title: What Does Cloud Telephony Mean?
+date: 2018-09-12T14:51:12.000+06:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
----
+author: Tjapko Smits
+description: 'Cloud telephony hosted PBX Voice ocer IP Internet calling cheap world
+  wide tariff '
 
+---
 Cloud telephony, also known as cloud calling, is a type of unified communications as a service (UCaaS) that offers voice communication services through a third-party host. UCaaS replaces the need for conventional enterprise telephone systems, such as private branch exchange (PBX). Cloud telephony services can be web- or applications-based.
 
 Cloud communications providers build, operate and maintain standardized telephony platform offerings on their servers, with customers gaining remote access -- via the internet -- on a subscription or as-needed basis. This model lets organizations ditch their conventional, on-premises telephone systems -- such as PBX -- which tend to be relatively expensive and time-consuming to provision and maintain.
