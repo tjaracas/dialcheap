@@ -277,7 +277,7 @@ Article 10 Limitation of Liability
 
 10\.4 To the maximum extent permitted by applicable law, in no event shall Dial.Cheap be liable for any special, incidental or consequential damages whatsoever (including but not limited to, damages for loss of profits or confidential or other information, for business interruption, for personal injury, for loss of privacy arising out of or in any way related to the use of or inability to use the VoIP service), even if Dial.Cheap has been advised of the possibility of such damages and even if the remedy fails of its essential purpose. Any investements made by the users of the VoIP service(s) from Dial.Cheap to be able to make use of these services are not and will never be the responsibility of Dial.Cheap. Therefore, Dial.Cheap will not be liable for losses or damages that are the direct- or indirect result of these investments, whether these investments will be materialistic or financial.
 
-10\.5 The above limitation of liability in article 10.3 shall cease to apply if and insofar as the loss is due to Dial.Cheaps wilful intent or gross negligence.
+10\.5 The above limitation of liability in article 10.3 shall cease to apply if and insofar as the loss is due to Dial.Cheap wilful intent or gross negligence.
 
 Article 11 Loss of Service Due to Force Majeure
 
