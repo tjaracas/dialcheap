@@ -1,8 +1,8 @@
 ################################# Default configuration ###################
-baseURL = "https://startvoice.com"
+baseURL = "https://dial.cheap"
 title = "DialCheap"
-theme = "meghna-hugo-master"
-#themesDir = "../.."
+theme = "meghna-hugo"
+themesDir = "../.."
 # post pagination
 paginate = "6"
 # post excerpt
