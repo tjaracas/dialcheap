@@ -90,7 +90,7 @@ url = "https://themefisher.com/"
 weight = 8
 [params]
 author = "dialcheap"
-description = "Dial Cheap Hosted PBX Voip telephony endpoints telecommunication SIP trunking trunk internet cloud"
+description = "Dial Cheap Hosted PBX Voip telephony endpoints telecommunication SIP trunking trunk internet cloud telefonie internet"
 google_analytics_id = "256941958"
 logo = "images/logo.png"
 post_share = true
@@ -132,7 +132,7 @@ enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "https://www.facebook.com/carlos.pastor.334"
+link = "https://www.facebook.com/dialcheap"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://www.twitter.com/startvoice"
