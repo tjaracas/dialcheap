@@ -5,22 +5,29 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+    - name : Kelly Cabrera
+      image : images/client/kelly.jpg
+      image_webp : images/client/kelly.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Being in the Real Estate businness for over 12 years now we rely on good communications. Without an office our customers can rely on our business as if we do have one. We have a professiona IVR system and all our employees are reachable during their work hours wherever they are!
       
     # testimonial item loop
     - name : Mark Dinn
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Our main office is in South Africa. Customer for over 10 years with offices all over Africa. Super satisfied with the solutions!
       
     # testimonial item loop
-    - name : Lemos Kail
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+    - name : Matteo
+      image : images/client/matteo.jpg
+      image_webp : images/client/matteo.webp
+      date : June 12, 2014
+      content : We are using this system in our fashion company in Milan for over 6 years now. Our sales reps travel all over the world and are always reachable! It's highly recommandable that you start thinking on using this system. 
+      
+      # testimonial item loop
+    - name : Ton de Haar
+      image : images/client/tondehaar.jpg
+      image_webp : images/client/tondehaar.webp
+      date : Jan 2, 2012
+      content : Being a headhunter with our main Office in London we travel all around the world looking for prospects. Our reachabilility is number 1 and we achieved this with dial.cheap. 

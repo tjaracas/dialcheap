@@ -4,7 +4,20 @@ cta:
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
   title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  content : "FREE Hosted PBX. No set-up fee. No monthly fee
+		Three FREE endpoints. Any VoIP SIP endpoint will work. 
+Free Softphone plus QR code configuration 
+We can offer all major PBX features.
+Incoming phone Numbers or DID.    
+Self- configurable ringgroups. 
+Self configurable Working Hours.
+Free Voicemail on request
+IVR  on request
+No predictive diallers allowed .
+Lowest available International tariffs provided with highly advanced Least Cost Routing mechanism from Worlds best Carriers.
+Billing IN- and OUTBOUND always per second.
+You configure, pay us, connect your endpoints and call.
+."
   button:
     enable : true
     label : "Start a project with us"

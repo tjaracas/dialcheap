@@ -1,64 +1,74 @@
 ##################################### pricing ##############################
 pricing:
   enable : true
-  title : Our Plans
+  title : Our Plans - All pricing in Euros. 
   pricing_table :
     # pricing table loop
-    - name : Free
-      price : $99
+    - name : Cloud PBX
+      price : FREE
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - Free  Hosted PBX
+        - 3 Endpoints Free
+        - Additional endpoint 1 euro p/m
+        - Incoming number according tariff
+        - Free configurable Ringgroup
+        - Free configurable voicemail
+        - IVR € 5 p/m
+        - Apply Rates for outgoing calls
+        - 24/7 online Tech Support
       button:
         label : "Signup"
-        link : "#"
+        link : "https://dial.cheap"
       
     # pricing table loop
-    - name : Silver
-      price : $149
+    - name : SIP Trunking
+      price : €20
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
+        - Hosted PBX
+        - IP authorization
+        - Incoming Number according tariff
+        - 10 concurrent outbound channels
+        - No dialers allowed
+        - Apply Rates for outgoing calls
         - 24/7 Tech Support
+        - PCMU, PCMA G729 codec support
+        - All major VoIP cards supported
       button:
         label : "Signup"
-        link : "#"
+        link : "https://dial.cheap"
         
     # pricing table loop
-    - name : Gold
-      price : $199
+    - name : Incoming Number
+      price : €5-25
       unit : month
       services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
+        - World Wide availability
+        - Registration Required
+        - Only add on to Hosted PBX
+        - charge on incoming calls
+        - Pricing differs per country
+        - On line registration and buying
+        - Monthly fee automatically charged
+        - Availability as it comes    
+        - 24/7 Tech Support     
       button:
         label : "Signup"
-        link : "#"
+        link : "#contact"
         
-    # pricing table loop
-    - name : Platinum
-      price : $299
-      unit : month
-      services:
-        - 1GB Disk Space
-        - 10 Email Account
-        - Script Installer
-        - 1 GB Storage
-        - 10 GB Bandwidth
-        - 24/7 Tech Support
-      button:
-        label : "Signup"
-        link : "#"
+  #  # pricing table loop
+   # - name : Incoming Number
+   #   price : $10
+   #   unit : month
+   #   services:
+   #     - Order add on to hosted PBX
+   #     - Charge on incoming call
+   #     - Self ordering in app
+   #     - Registration required
+   #     - Active calling rates apply
+   #     - Worldwide availability
+   #     - 24/7 Tech Support
+   #   button:
+   #     label : "Signup"
+   #     link : "#contact"

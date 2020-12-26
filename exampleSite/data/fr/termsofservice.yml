@@ -1,0 +1,12 @@
+############################### termsofservice ################################
+termsofservice:
+  enable : true
+#  bg_image_webp : "images/backgrounds/hero-area.webp"
+#  bg_image : "images/backgrounds/hero-area.jpg"
+#  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Experience the new Reality"
+  content : "Make your own Company's Private Telephone Network in the Cloud. Fast, Easy and Cheap!"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"

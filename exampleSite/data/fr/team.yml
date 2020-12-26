@@ -4,65 +4,99 @@ team:
   title : Our Team
   team_member :
     # team member loop
-    - name : Abul Mal Muhit
-      image_webp : images/team/team-1.webp
-      image : images/team/team-1.jpg
+    - name : Tjapko Smits
+      image_webp : images/team/tjapko.webp
+      image : images/team/tjapko.jpg
       designation : CEO/Founder
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Working in the field of Telecommunications all his life Tjapko created dial.cheap in 2002 together with Mike.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "Https://www.facebook.com/dialcheap"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.twitter.com/dial_cheap"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.linkedin.com/dialcheap"
+  #      - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+  #        link : "#"
+  
+   # team member loop
+    - name : Mike Tkachuk
+      image_webp : images/team/mike.webp
+      image : images/team/mike.jpg
+      designation : CTO/Founder.
+      content : Mike is our tech wizzard that build our complete solution. His team can tackle any technical telecommunications issue.
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "Https://www.facebook.com/dialcheap"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.twitter.com/dial_cheap"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
     # team member loop
-    - name : Frank Miller
-      image_webp : images/team/team-2.webp
-      image : images/team/team-2.jpg
-      designation : Manager
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Carmen Gonzalez
+      image_webp : images/team/carmen.webp
+      image : images/team/carmen.jpg
+      designation : CFO / Administration
+      content : After obtaning a PHD in Business Administration Carmen joined our company in 2002 and since acting as our CFO.
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "Https://www.facebook.com/dialcheap"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "https://www.twitter.com/dial_cheap"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+ #       - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+ #         link : "#"
         
+            
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Jessica Cabrera
+      image_webp : images/team/jessie.webp
+      image : images/team/jessie.jpg
+      designation : Rates / Tariffs Specialist
+      content : Jessica is responsible for analysing and maintaining our outbound rates up to date with our Tier 1 carriers. 
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "Https://www.facebook.com/dialcheap"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.twitter.com/dial_cheap"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+     
+    # team member loop
+    - name : Kelly Felipe
+      image_webp : images/team/kelly.webp
+      image : images/team/kelly.jpg
+      designation : Marketing Specialist
+      content : Kelly makes sure that our product is what you need. We like to keep things simple but effective.  
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : "Https://www.facebook.com/dialcheap"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
-        
+    
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Dyron Figueroa
+      image_webp : images/team/dyron.webp
+      image : images/team/dyron.jpg
+      designation : Overseas marketing strategic planner. 
+      content : Dyron is allways on the move looking how the market moves and adapting it into your needs. 
       social :
         - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "#"
+          link : "Https://www.facebook.com/dialcheap"
         - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "#"
+          
