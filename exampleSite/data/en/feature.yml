@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We’re An Internet Telecommunication Design Agency.
+  content : "Our technicians are developing the state of the art Internet telecommunication tools for your need."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : VoIP Optimized
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We convert your high speed internet connection into a new World of Telecommunications.
       
       # feature item loop
     - title : Easy Customization
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : You yourself can order and configure your required environment or we do it for you for free.  
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Nomadic features
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Focus on your Core business while your communication needs are professionally handled by us anywhere your are!
       
       # feature item loop
-    - title : Easy Customization
+    - title : Future growth
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We service communication on smartphones, computers, laptops, specific VoIP phones and you can add new endpoints while your company grows 
