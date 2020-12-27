@@ -50,7 +50,7 @@ url = "https://dial.cheap/"
 weight = 7
 [params]
 author = "dialcheap"
-description = "Dial Cheap Hosted PBX Voip telephony endpoints telecommunication SIP trunking trunk internet cloud telefonie internet"
+description = "Dial Cheap your Internet Cloud Telephony provider with Voice over IP telecommunications"
 google_analytics_id = "256941958"
 logo = "images/logo.png"
 post_share = true
@@ -101,5 +101,5 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "www.linkedin.com/in/tjapko-smits-2388aa202"
 
