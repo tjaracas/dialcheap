@@ -9,17 +9,22 @@ title = "How to install Grandstream Wave Lite"
 +++
 Please follow the following steps to Install a SoftPhone Gswave lite on your Android or iPhone handheld device.
 
-A softphone is an extension from your Cloud PBX that has the same functions as a normal telephone but using the Internet Data to function.
+A softphone is an extension from your Cloud PBX installed as an App on you phone that has the same functions as a normal telephone but using the Internet Data to function.
 
-Step 1:
+Steps to follow to install and configure your app -
 
-Download the Grandstream lite video app on your device through the appriate means.
+Download the Grandstream lite video app on your device through the appropriate means.
 
-Install the app
+Install the app on your device
 
-Grandstream Wave is a FREE softphone application that allows users to make and receive voice/video calls through their business or residential SIP accounts on any Android™ device (version 4.1+) from anywhere in the world, via either cellular data or WiFi. This application supports the integration of up to 6 SIP accounts, 6-way voice conferencing, and allows users to monitor their IP PBX (such as Grandstream's UCM6100 series IP PBX & UCM6510 IP PBX) while utilizing speed dial with up to 24 virtual BLF keys. Grandstream Wave also supports advanced SIP telephony features including call transfer, LDAP phonebook integration, and more. With Grandstream Wave, business and residential users always have access to their SIP lines and can easily keep in touch with business or personal contacts without using expensive cellular data plans.  
-  
-  
+Now press on "setting" in the right down corner 
+
+![](/images/settingsgswave.webp)
+
+The following screen will open 
+
+Grandstream Wave is a FREE softphone application that allows users to make and receive voice/video calls through their business or residential SIP accounts on any Android™ device (version 4.1+) from anywhere in the world, via either cellular data or WiFi. This application supports the integration of up to 6 SIP accounts, 6-way voice conferencing, and allows users to monitor their IP PBX (such as Grandstream's UCM6100 series IP PBX & UCM6510 IP PBX) while utilizing speed dial with up to 24 virtual BLF keys. Grandstream Wave also supports advanced SIP telephony features including call transfer, LDAP phonebook integration, and more. With Grandstream Wave, business and residential users always have access to their SIP lines and can easily keep in touch with business or personal contacts without using expensive cellular data plans.
+
 Key Features & Technical Specifications:  
 • Supports Video, Hardware encode/decode, up to 720P  
 • Supports G.711µ/a, G.722 (HD-audio), G.726-32, GSM, iLBC, and Opus codecs  
