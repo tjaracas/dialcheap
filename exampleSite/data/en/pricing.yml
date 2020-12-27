@@ -7,14 +7,14 @@ pricing:
     price: FREE
     unit: month
     services:
-    - Free  Hosted PBX
+    - Free  Cloud Telephony system
     - 3 Endpoints Free
     - Additional endpoint 1 euro p/m
-    - Incoming number according tariff
-    - Free configurable Ringgroup
-    - Free configurable voicemail
-    - IVR € 5 p/m
-    - Apply Rates for outgoing calls
+    - Inbound number according tariff
+    - Free configurable Ring-groups
+    - Free configurable Voice-mail
+    - IVR on demand
+    - Apply Rates for outbound calls
     - 24/7 online Tech Support
     button:
       label: Signup
