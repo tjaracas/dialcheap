@@ -23,6 +23,10 @@ Now press on "setting" in the right down corner
 
 The following screen will open 
 
+![](/images/accountsettings.webp)
+
+Press "Account Settings" 
+
 Grandstream Wave is a FREE softphone application that allows users to make and receive voice/video calls through their business or residential SIP accounts on any Android™ device (version 4.1+) from anywhere in the world, via either cellular data or WiFi. This application supports the integration of up to 6 SIP accounts, 6-way voice conferencing, and allows users to monitor their IP PBX (such as Grandstream's UCM6100 series IP PBX & UCM6510 IP PBX) while utilizing speed dial with up to 24 virtual BLF keys. Grandstream Wave also supports advanced SIP telephony features including call transfer, LDAP phonebook integration, and more. With Grandstream Wave, business and residential users always have access to their SIP lines and can easily keep in touch with business or personal contacts without using expensive cellular data plans.
 
 Key Features & Technical Specifications:  
