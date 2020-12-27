@@ -1,10 +1,10 @@
 ---
 title: Terms and Conditions
-date: 2019-07-19T06:52:36+00:00
-image_webp: "/images/tenc.webp"
-image: "/images/tenc.webp"
+date: 2019-07-19T06:52:36.000+00:00
+image_webp: "/images/terms.webp"
+image: "/images/terms.jpg"
 author: Tjapko Smits
-description: 'terms and conditions voice over IP cloud telephony startvoice '
+description: terms and conditions voice over IP cloud telephony startvoice dial.cheap
 
 ---
 StartVoice N.V. / Dial.Cheap Privacy Policy (GDPR) and Terms and conditions
