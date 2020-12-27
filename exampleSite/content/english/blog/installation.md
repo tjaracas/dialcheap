@@ -38,10 +38,10 @@ Sign in using your Facebook or Google account or sign up using your email addres
 
 ![image alt text](/images/blog/dashboard.jpg)
 
-Endpoints = [Link to Endpoints Blog Post](https://dialcheap.netlify.app/blog/endpoints/ "Endpoints") 
-
-Incoming Numbers = Link to Incoming Numbers Blog Post 
-
-Ringgroups = Link to Ringgroups Blog Post 
-
-Finance = Link to Finance Blog Post 
+> Endpoints = [Link to Endpoints Blog Post](https://dialcheap.netlify.app/blog/endpoints/ "Endpoints") 
+>
+> Incoming Numbers = Link to Incoming Numbers Blog Post 
+>
+> Ringgroups = Link to Ringgroups Blog Post 
+>
+> Finance = Link to Finance Blog Post 
