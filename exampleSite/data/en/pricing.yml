@@ -35,7 +35,7 @@ pricing:
     button:
       label: Signup
       link: https://dial.cheap
-  - name: Incoming Number
+  - name: Phone Number
     price: "€5-25"
     unit: month
     services:
