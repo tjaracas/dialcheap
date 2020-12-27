@@ -1,9 +1,9 @@
 +++
 author = "Tjapko Smits"
 date = 2020-02-12T04:00:00Z
-description = ""
-image = "/images/gswavelite.jpg"
-image_webp = "/images/gswavelite.webp"
+description = "gswave lite video soft phone for cloud telef\\phony dial.cheap"
+image = "/images/gswavelite-3.jpg"
+image_webp = "/images/gswavelite-3.webp"
 title = "How to install Grandstream Wave Lite"
 
 +++
