@@ -38,12 +38,10 @@ Sign in using your Facebook or Google account or sign up using your email addres
 
 ![image alt text](/images/blog/dashboard.jpg)
 
-    Dashboard (Link to Dashboard post)
-    Endpoints =(Link to blog post Endpoints)
-    Incoming Numbers (Link to incoming numbers post)
-    Calls ( Link to Calls blog post)
-    Ringgroups =( Link to Blogpost Ringgroups)
-    Finance =( Link to Blogpost Grandstream light)
-    Settings Link to settings Blog Post 
-
 Endpoints = [Link to Endpoints Blog Post](https://dialcheap.netlify.app/blog/endpoints/ "Endpoints") 
+
+Incoming Numbers = Link to Incoming Numbers Blog Post 
+
+Ringgroups = Link to Ringgroups Blog Post 
+
+Finance = Link to Finance Blog Post 
