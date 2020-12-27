@@ -2,8 +2,8 @@
 author = "Tjapko Smits"
 date = 2020-06-17T04:00:00Z
 description = ""
-image = "/images/payus.jpg"
-image_webp = "/images/payus.webp"
+image = "/images/payus-1.jpg"
+image_webp = "/images/payus-1.webp"
 title = "How can you Pay Us"
 
 +++
@@ -21,4 +21,4 @@ These options will be visible once you created a secure account with us. [HTTPS:
 
 No Funds available means no calls in- or outbound possible. 
 
-Due to hacker activities, we check each payment securely before we process it so expect to identify yourself in suspicious situations.  
+Due to hacker activities, we check each payment securely before we process it so expect to identify yourself in suspicious situations.
