@@ -27,6 +27,26 @@ The following screen will open
 
 Press "Account Settings" 
 
+![](/images/plussign.webp)
+
+Press the "+" sign
+
+![](/images/scancode.webp)
+
+Press UCM Account (scan OR Code) Allow the App to make use of your camera if asked
+
+Login in to your dial.cheap account-  go to endpoints  - press "Detail" on the endpoint you would like to add into your phone application and press  "QR code"
+
+![](/images/editendpoint.webp)
+
+A QR Code will appear and scan the image with your phone. 
+
+![](/images/qrcode.webp)
+
+> ## **Now you are READY!!! Just start calling !**
+
+## 
+
 Grandstream Wave is a FREE softphone application that allows users to make and receive voice/video calls through their business or residential SIP accounts on any Android™ device (version 4.1+) from anywhere in the world, via either cellular data or WiFi. This application supports the integration of up to 6 SIP accounts, 6-way voice conferencing, and allows users to monitor their IP PBX (such as Grandstream's UCM6100 series IP PBX & UCM6510 IP PBX) while utilizing speed dial with up to 24 virtual BLF keys. Grandstream Wave also supports advanced SIP telephony features including call transfer, LDAP phonebook integration, and more. With Grandstream Wave, business and residential users always have access to their SIP lines and can easily keep in touch with business or personal contacts without using expensive cellular data plans.
 
 Key Features & Technical Specifications:  
