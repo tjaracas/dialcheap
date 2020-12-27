@@ -17,29 +17,29 @@ Download the Grandstream lite video app on your device through the appropriate m
 
 Install the app on your device
 
-Now press on "setting" in the right down corner 
+> Now press on "setting" in the right down corner 
 
 ![](/images/settingsgswave.webp)
 
-The following screen will open 
+> The following screen will open 
 
 ![](/images/accountsettings.webp)
 
-Press "Account Settings" 
+> Press "Account Settings" 
 
 ![](/images/plussign.webp)
 
-Press the "+" sign
+> Press the "+" sign
 
 ![](/images/scancode.webp)
 
 Press UCM Account (scan OR Code) Allow the App to make use of your camera if asked
 
-Login in to your dial.cheap account-  go to endpoints  - press "Detail" on the endpoint you would like to add into your phone application and press  "QR code"
+> ### **Login in to your dial.cheap account-  go to endpoints  - press "Detail" on the endpoint you would like to add into your phone application and press  "QR code"**
 
 ![](/images/editendpoint.webp)
 
-A QR Code will appear and scan the image with your phone. 
+> A QR Code will appear and scan the image with your phone. 
 
 ![](/images/qrcode.webp)
 
