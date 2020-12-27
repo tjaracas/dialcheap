@@ -1,10 +1,15 @@
 +++
 author = "Tjapko Smits"
-date = 2020-10-06T04:00:00Z
+date = 2020-02-12T04:00:00Z
 description = ""
+draft = true
 image = "/images/gswavelite.jpg"
 image_webp = "/images/gswavelite.webp"
 title = "How to install a soft Phone"
 
 +++
-Hier tekst om de tool op een android of een Iphone te installeren. 
+Please follow the following steps to Install a SoftPhone Gswave lite on your Android or iPhone handheld device. 
+
+A softphone is an extension from your Cloud PBX that has the same functions as a normal telephone but using the Internet Data to function. 
+
+Step 1:
