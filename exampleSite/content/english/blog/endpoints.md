@@ -9,10 +9,10 @@ description: This is meta description
 ---
 ## Setup your endpoints following these easy steps:
 
-### STEP-1 : Login into your account
+### STEP-1 : Login into your Dial.Cheap account
 
-The following screen is being used as an example screen.
-Before you click on this link read this post untill the end.
+> The following screen is being used as an example screen. Before you click on this link read this post until the end. 
+
 ![image alt text](/images/blog/endpoints_display.jpg)
 
 ### STEP-2 : Press on "Endpoints"
@@ -32,6 +32,6 @@ Before you click on this link read this post untill the end.
 
 ![image alt text](/images/blog/endpoint_created.jpg)
 
-### STEP-5 Repeat this proces as many times you require Endpoints. Three endpoint are free and included. If you like to connect more endpoints please ask us
+### STEP-5 Repeat this process as many times you require Endpoints. Three endpoints are free and included. If you like to connect more endpoints please ask us
 
 To install Grandstream Wave Lite on your phone you can follow [this link]() 
