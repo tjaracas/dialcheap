@@ -4,7 +4,7 @@ date: 2020-12-10T08:51:12+00:00
 author: Tjapko Smits
 image_webp: images/blog/dialcheapsetup.webp
 image: images/blog/dialcheapsetup.jpg
-description: This is meta description
+description: 'setup dial.cheap hosted pbx cloud telephony free endpoints internet '
 
 ---
 ## Install your Cloud Telephony or Hosted PBX system following these easy steps:
