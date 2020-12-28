@@ -17,7 +17,7 @@ description: This is meta description
 
 ### STEP-2 : Press on "Endpoints"
 
-![image alt text](/images/blog/endpoint_list.jpg)
+![](/images/addendpoint.webp)
 
 ### STEP-3 : Press on Create or the + sign
 
