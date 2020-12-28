@@ -30,7 +30,7 @@ description: This is meta description
 
 ### STEP-4 : Your Endpoint has been created. You can now connect to any VoIP endpoint using the data found in your endpoint's setting. You can edit and modify values or activate voice mail. You also may Install an App on your smartphone and configure a smartphone using QR code.
 
-![image alt text](/images/blog/endpoint_created.jpg)
+![](/images/readyendpoint.webp)
 
 ### STEP-5 Repeat this process as many times you require Endpoints. Three endpoints are free and included. If you like to connect more endpoints please ask us
 
