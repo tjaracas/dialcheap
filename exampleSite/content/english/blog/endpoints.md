@@ -21,7 +21,7 @@ description: This is meta description
 
 ### STEP-3 : Press on Create or the + sign
 
-![image alt text](/images/blog/endpoint_create.jpg)
+![](/images/addinfo.webp)
 
     Name = Use any name representing your endpoint like office or softphone or persons name
     Endpoint = Select the endpoint from a dropdown list that you would like to configure
