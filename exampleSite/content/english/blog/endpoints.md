@@ -28,7 +28,7 @@ description: This is meta description
     Password = Use presented randpom password or fill out your own password
     Caller ID = Put the number that you like the receiving caller to see. Use format like 59996613109
 
-### STEP-4 : Your Cloud Endpoint has been created. You can now connect any VoIP endpoint using the data found in your endpoint's setting. You can Edit and modify values or activate Voice Mail. You also may Install Grandstream Lite on your smartphone and configure a smartphone using QR code.
+### STEP-4 : Your Cloud Endpoint has been created. You can now connect any VoIP endpoint using the data found in your endpoint's setting. You can Edit and Modify values or activate Voice Mail. You also may Install Grandstream Lite on your smartphone and configure a smartphone using QR code.
 
 ![](/images/readyendpoint.webp)
 
