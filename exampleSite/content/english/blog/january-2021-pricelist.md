@@ -8,7 +8,7 @@ title = "January 2021 pricelist"
 
 +++
 
-Please search for your Destination. The Price indication is in euros. Since July 2019 Roaming laws exist for countries within the EU. This means that if you call to a EU destination with a caller ID from any EU destination you pay for the rate that has Origin XXXXX behind its name. Calling from outside the EU normal rates apply and no Roaming will be activated. Be aware that this can be expensive. 
+Please search for your Destination. The Price indication is in euros. Please make an account to check the active rates. Since July 2019 Roaming laws exist for countries within the EU. This means that if you call to a EU destination with a caller ID from any EU destination you pay for the rate that has Origin XXXXX behind its name. Calling from outside the EU normal rates apply and no Roaming will be activated. Be aware that this can be expensive. 
 
 | --- | --- |
 | name | price |
