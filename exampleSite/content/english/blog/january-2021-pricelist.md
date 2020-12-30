@@ -4,7 +4,7 @@ date = 2020-12-30T04:00:00Z
 description = "pricelist dial.cheap ikbelgoedkoop startvoice january 2021 "
 image = "/images/pricelist-icon.jpg"
 image_webp = "/images/pricelist-icon.webp"
-title = "Januari 2021 pricelist"
+title = "January 2021 pricelist"
 
 +++
 
