@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: 'Endpoints '
   portfolio_item:
+  - name: Video Phone
+    image: images/portfolio/t48s.jpg
+    image_webp: images/portfolio/t48s.webp
+    categories:
+    - Video
+    content: 'T48S High End video Phone '
+    link: ''
   - name: High level
     image: images/portfolio/T40P.jpg
     image_webp: images/portfolio/T40P.webp
