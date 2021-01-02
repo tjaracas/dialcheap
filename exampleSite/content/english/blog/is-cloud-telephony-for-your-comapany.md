@@ -4,7 +4,7 @@ date = 2020-12-02T04:00:00Z
 description = "Cloud telephony hosted PBX Voice ocer IP Internet calling cheap world wide tariff "
 image = "/images/cloud1.jpg"
 image_webp = "/images/cloud1.webp"
-title = "Is Cloud Telephony for your comapany"
+title = "Is Cloud Telephony for your company"
 
 +++
 We have covered a number of topics relating to Cloud Telephony & Unified Communications, explaining the benefits of these technologies compared with traditional ‘on-premise’ solutions.
