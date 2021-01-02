@@ -4,8 +4,8 @@ portfolio:
   title: 'Endpoints '
   portfolio_item:
   - name: High level
-    image: images/portfolio/t40p.jpg
-    image_webp: images/portfolio/t40p.webp
+    image: images/portfolio/T40P.jpg
+    image_webp: images/portfolio/T40P.webp
     categories: ''
     content: 'High Level Receptionist Phone '
     link: ''
