@@ -2,8 +2,8 @@
 author = "Tjapko Smits"
 date = 2020-12-30T04:00:00Z
 description = "pricelist dial.cheap ikbelgoedkoop startvoice january 2021 "
-image = "/images/pricelist-icon.jpg"
-image_webp = "/images/pricelist-icon.webp"
+image = "/images/pricelist.jpg"
+image_webp = "/images/pricelist.webp"
 title = "January 2021 pricelist"
 
 +++
