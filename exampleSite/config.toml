@@ -44,10 +44,15 @@ pre = "#"
 url = "contact"
 weight = 6
 [[Languages.en.menu.main]]
+name = "portfolio"
+pre = "#"
+url = "portfolio"
+weight = 7
+[[Languages.en.menu.main]]
 name = "Sign in"
 pre = ""
 url = "https://dial.cheap/"
-weight = 7
+weight = 8
 [params]
 author = "dialcheap"
 description = "Dial Cheap your Internet Cloud Telephony provider with Voice over IP telecommunications"
