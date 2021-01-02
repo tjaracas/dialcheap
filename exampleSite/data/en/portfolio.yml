@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Entry level IP Phone
     image: images/portfolio/ip19.jpg
-    image_webp: images//portfolio/ip19.webp
+    image_webp: images/portfolio/ip19.webp
     categories:
     - IP-Phones
     content: SIP-T19P E2 The SIP-T19P E2 is one of Yealink's latest answers for the
