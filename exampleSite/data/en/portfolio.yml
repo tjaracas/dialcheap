@@ -14,6 +14,6 @@ portfolio:
     image: images/portfolio/ip19.jpg
     image_webp: images/portfolio/ip19.webp
     categories:
-    - IP-Phones
+    - Entry Level
     content: 'SIP Entry level IP PHone '
     link: https://www.yealink.com/product/voice-communication-t19pe2
