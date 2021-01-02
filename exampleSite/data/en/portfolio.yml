@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: 'Endpoints '
   portfolio_item:
+  - name: High level
+    image: images/portfolio/t40p.jpg
+    image_webp: images/portfolio/t40p.webp
+    categories: ''
+    content: 'High Level Receptionist Phone '
+    link: ''
   - name: Mid Level IP Phone
     image: images/portfolio/t22p.jpg
     image_webp: images/portfolio/t22p.webp
