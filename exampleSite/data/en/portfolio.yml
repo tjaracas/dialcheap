@@ -3,9 +3,19 @@ portfolio:
   enable: false
   title: 'Endpoints '
   portfolio_item:
-  - name: ''
+  - name: Entry level IP Phone
     image: ''
     image_webp: ''
-    categories: ''
-    content: ''
-    link: ''
+    categories:
+    - IP-Phones
+    content: SIP-T19P E2 The SIP-T19P E2 is one of Yealink's latest answers for the
+      entry-level IP Phone that offers features and performance normally associated
+      with much more advanced phones. The quite intentional choice of high-quality
+      materials, combined with a generously large 132x64-pixel graphical LCD that
+      gives a clear 5-line display, guarantees both a smoother user experience and
+      easier access to much more visual information at a glance. Dual 10/100 Mbps
+      network ports with integrated PoE are ideal for extended network use. The SIP-T19P
+      E2 supports single VoIP account, simple, flexible and secure installation options,
+      plus IPv6 and SRTP/HTTPS/TLS, VLAN and QoS. It includes headset use, wall-mountable
+      and has been designed very specifically for better business.
+    link: https://www.yealink.com/product/voice-communication-t19pe2
