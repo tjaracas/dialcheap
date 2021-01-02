@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: 'Endpoints '
   portfolio_item:
+  - name: Mid Level IP Phone
+    image: images/portfolio/t22p.jpg
+    image_webp: images/portfolio/t22p.webp
+    categories:
+    - midlevel
+    content: Mid level IP Phone
+    link: https://www.amazon.com/Yealink-SIP-T22P-Professional-Phone-Lines/dp/B002D10BYO
   - name: Entry level IP Phone
     image: images/portfolio/ip19.jpg
     image_webp: images/portfolio/ip19.webp
