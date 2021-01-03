@@ -9,7 +9,7 @@ portfolio:
     categories:
     - Video
     content: 'T48S High End video Phone '
-    link: ''
+    link: https://www.yealink.com/product/voice-communication-t48s
   - name: medium Level
     image: images/portfolio/T40P.jpg
     image_webp: images/portfolio/T40P.webp
