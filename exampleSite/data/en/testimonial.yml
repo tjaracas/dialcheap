@@ -4,6 +4,12 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: Remco
+    image: images/testimonial/remco.jpg
+    image_webp: images/testimonial/remco.webp
+    date: ''
+    content: 'As a neuro surgeon I travel between Europe and Latin America and I always
+      carry my dial.cheap account with me. '
   - name: Edwin Sluis
     image: images/client/edwin.jpg
     image_webp: images/client/edwin.webp
