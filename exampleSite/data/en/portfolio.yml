@@ -8,17 +8,8 @@ portfolio:
     image_webp: images/portfolio/t27g.webp
     categories:
     - medium
-    content: SIP-T27G  With faster response to the phone’s user interface and better
-      device performance, the SIP-T27G IP Phone, as the upgraded product of T27P,
-      is Yealink’s latest feature-rich tool unifying superior voice capabilities and
-      increased function extension capability for business. Yealink Optima HD technology
-      and wideband codec of Opus deliver a superb sound quality and bring you a life-like
-      voice communications. With an all-new USB port, the SIP-T27G boasts unparalleled
-      functionality and expansibility with Bluetooth, Wi-Fi and USB recording features.
-      Seamlessly migrated to GigE-based network infrastructure, SIP-T27G IP Phone
-      is also built with the Gigabit Ethernet facilitating very rapidly call handling.
-      By using standard encryption protocols, the SIP-T27G performs highly secure
-      remote provisioning and software upgrades.
+    content: 'superior voice capabilities and increased function extension capability
+      for business. '
     link: ''
   - name: Video Phone
     image: images/portfolio/t48s.jpg
