@@ -31,7 +31,7 @@ portfolio:
     image: images/portfolio/T40P.jpg
     image_webp: images/portfolio/T40P.webp
     categories:
-    - 'Medium '
+    - medium
     content: 'High Level Receptionist Phone '
     link: ''
   - name: Entry level IP Phone
