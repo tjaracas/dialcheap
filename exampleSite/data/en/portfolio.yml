@@ -1,8 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: 'Endpoints for your cloud system just look as regular phones but they have
-    a different connector that can go straight in the Internet. '
+  title: 'Endpoints '
   portfolio_item:
   - name: 6 line IP phone
     image: images/portfolio/t27g.jpg
