@@ -4,14 +4,6 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: Kelly Cabrera
-    image: images/client/kelly.jpg
-    image_webp: images/client/kelly.webp
-    date: Dec 26, 2018
-    content: Being in the Real Estate businness for over 12 years now we rely on good
-      communications. Without an office our customers can rely on our business as
-      if we do have one. We have a professiona IVR system and all our employees are
-      reachable during their work hours wherever they are!
   - name: Edwin Sluis
     image: images/client/edwin.jpg
     image_webp: images/client/edwin.webp
