@@ -56,7 +56,7 @@ weight = 8
 [params]
 author = "dialcheap"
 description = "Dial Cheap your Internet Cloud Telephony provider with Voice over IP telecommunications"
-google_analytics_id = "G-7Y4PQ5LD2L"
+google_analytics_id = "UA-186366734-1"
 logo = "images/logo.png"
 post_share = true
 [params.cookies]
