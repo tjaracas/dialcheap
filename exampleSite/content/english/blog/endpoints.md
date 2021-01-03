@@ -7,7 +7,19 @@ image: images/blog/endpoints.jpg
 description: This is meta description
 
 ---
-## Setup your endpoints following these easy steps:
+## What is an "Endpoint"
+
+With the term Endpoint we mean the connected telephones on your Cloud-based telephone system. This can be the traditional looking telephone called an "IP-Phone", an App running on your smartphone using your internet data functioning as a "softphone", or an application on your desktop that simulates the exact same use of a normal telephone. All these devices are extensions of your Cloud-based Telephone System and we call them "Endpoints".
+
+Startups and small businesses that like to save on expenses will usually make use of "softphones" as apps in mobiles or desktops and grow into more sophisticated "hard phones". The latter has the same look and feel as the traditional telephone but this device is IP-based or Internet-based and has an exponential amount of useful functions for your business. Usually, you have both. The IP-phone at home or on your desk and the softphone as your flexible nomadic extension of your IP-phone. It will function anywhere in the world as long as you have an Internet connection.  
+
+Both the Telephone System side as the endpoints are to be configured so they can work with your system. 
+
+We did our utmost best to take almost all of this work out of your hands but some minimal configuration has to be done. 
+
+The "IP Phones" they will be automatically configured for you once plugged into the Internet. We always have support online to help you in any which way possible. 
+
+In this article, we teach you how to configure the endpoints in the Telephone System end.  
 
 ### STEP-1 : Login into your Dial.Cheap account
 
@@ -28,7 +40,9 @@ description: This is meta description
     Password = Use presented randpom password or fill out your own password
     Caller ID = Put the number that you like the receiving caller to see. Use format like 59996613109
 
-### STEP-4 : Your Cloud Endpoint has been created. You can now connect any VoIP endpoint using the data found in your endpoint's setting. You can Edit and Modify values or activate Voice Mail. You also may Install Grandstream Lite on your smartphone and configure a smartphone using QR code.
+### STEP-4 : Your Cloud Endpoint has been created. You can now connect any IP-Phone, softphone or Desktop phone using the data found in your endpoint's setting. 
+
+### You can Edit and Modify values or activate Voice Mail and find the link for the softphone. 
 
 ![](/images/readyendpoint.webp)
 
