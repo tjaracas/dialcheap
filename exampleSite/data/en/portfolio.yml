@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: false
+  enable: true
   title: 'Endpoints '
   portfolio_item:
   - name: Video Phone
