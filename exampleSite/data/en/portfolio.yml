@@ -10,7 +10,7 @@ portfolio:
     - medium
     content: 'superior voice capabilities and increased function extension capability
       for business. '
-    link: ''
+    link: https://www.yealink.com/product/voice-communication-t27g
   - name: Video Phone
     image: images/portfolio/t48s.jpg
     image_webp: images/portfolio/t48s.webp
