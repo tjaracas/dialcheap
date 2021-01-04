@@ -24,7 +24,7 @@ portfolio:
     categories:
     - medium
     content: 'High Level Receptionist Phone '
-    link: ''
+    link: https://www.yealink.com/product/voice-communication-t40p
   - name: Entry level IP Phone
     image: images/portfolio/ip19.jpg
     image_webp: images/portfolio/ip19.webp
