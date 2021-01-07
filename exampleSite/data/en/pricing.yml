@@ -3,13 +3,13 @@ pricing:
   enable: true
   title: 'Prijs Plan. Alle prijzen in euros. '
   pricing_table:
-  - name: Klein bedrijf of Starter
-    price: Gratis
+  - name: KB of Starter
+    price: GRATIS
     unit: maand
     services:
     - 'Gratis cloud telefoon systeem '
     - '3 toestel aansluitingen. Meer mogelijk tegen vergoeding. '
-    - Een recepcionist(e) plus twee gewone buro IPtelefoons
+    - IP Telefoons op aanvraag
     - Inkomend nummer niet gratis
     - Ring groepen vrij configureerbaar.
     - 'Gratis Voice-mail per toestel. '
