@@ -18,7 +18,7 @@ pricing:
     - 24/7 online Technische Support
     button:
       label: Signup
-      link: https://dial.cheap
+      link: https://dial.cheap/admin
   - name: SIP Trunking
     price: "€20"
     unit: month
