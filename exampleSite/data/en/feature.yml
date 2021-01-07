@@ -1,27 +1,24 @@
-############################# feature ###################################
+---
 feature:
-  enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re An Internet Telecommunication Design Agency.
-  content : "Our technicians are developing the state of the art Internet telecommunication tools for your need."
-  feature_item : 
-      # feature item loop
-    - title : VoIP Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : We convert your high speed internet connection into a new World of Telecommunications.
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : You yourself can order and configure your required environment or we do it for you for free.  
-
-      # feature item loop
-    - title : Nomadic features
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Focus on your Core business while your communication needs are professionally handled by us anywhere your are!
-      
-      # feature item loop
-    - title : Future growth
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : We service communication on smartphones, computers, laptops, specific VoIP phones and you can add new endpoints while your company grows 
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: We adviseren vrijblijvend alles over Internet telefonie
+  content: 'Samen met us bespreken wij uw wensen en zetten dat om in mogelijheden. '
+  feature_item:
+  - title: Wij luisteren naar u
+    icon: ti-world
+    content: Aandachtig zullen wij al uw wensen op het gebied van de verlangde telecommunicatie
+      diensten aanhoren
+  - title: Easy Customization
+    icon: ti-panel
+    content: You yourself can order and configure your required environment or we
+      do it for you for free.
+  - title: Nomadic features
+    icon: ti-stats-up
+    content: Focus on your Core business while your communication needs are professionally
+      handled by us anywhere your are!
+  - title: Future growth
+    icon: ti-announcement
+    content: We service communication on smartphones, computers, laptops, specific
+      VoIP phones and you can add new endpoints while your company grows
