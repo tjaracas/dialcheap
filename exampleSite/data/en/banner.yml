@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Experience Cloud Telephony
-  content: 'Simple and Fast Phone System Setup! '
+  title: IkBelGoedkoop Cloud Telephonie
+  content: 'Waar ter wereld bereikbaar en super makkelijke integratie! '
   button:
     enable: true
-    label: Explore Us
-    link: "#services"
+    label: Ga Verder
+    link: "#about"
