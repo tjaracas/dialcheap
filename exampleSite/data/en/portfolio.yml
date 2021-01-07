@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: 'Endpoints '
+  title: beschikbare IP telefoons
   portfolio_item:
   - name: 6 line IP phone
     image: images/portfolio/t27g.jpg
