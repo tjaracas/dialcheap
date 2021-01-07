@@ -11,5 +11,5 @@ cta:
     werkt op je al aanwezige internet aansluiting. '
   button:
     enable: true
-    label: Start a project with us
+    label: Start een project met ons
     link: "#contact"
