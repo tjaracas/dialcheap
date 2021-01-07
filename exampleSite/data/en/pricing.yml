@@ -17,7 +17,7 @@ pricing:
     - Uitbellen volgens tarief
     - 24/7 online Technische Support
     button:
-      label: Signup
+      label: Inschrijven
       link: https://dial.cheap/admin
   - name: SIP Trunking
     price: "€20"
