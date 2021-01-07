@@ -19,9 +19,9 @@ pricing:
     button:
       label: Inschrijven
       link: https://dial.cheap/admin
-  - name: midden bedrijf
+  - name: MB tot 15 pax
     price: "€40"
-    unit: month
+    unit: maand
     services:
     - 'Cloud telefonie systeem '
     - '10 toestel aansluitingen gratis '
