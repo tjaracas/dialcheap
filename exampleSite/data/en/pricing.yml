@@ -1,7 +1,7 @@
 ---
 pricing:
   enable: true
-  title: 'Prijs Plan. Alle prijzen in euros. '
+  title: Prijs Plan voor Midden en Klein Bedrijf
   pricing_table:
   - name: KB of Starter
     price: GRATIS
