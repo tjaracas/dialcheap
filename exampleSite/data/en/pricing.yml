@@ -19,19 +19,19 @@ pricing:
     button:
       label: Inschrijven
       link: https://dial.cheap/admin
-  - name: SIP Trunking
-    price: "€20"
+  - name: midden bedrijf
+    price: "€40"
     unit: month
     services:
-    - Hosted PBX
-    - IP authorization
-    - Incoming Number according tariff
-    - 10 concurrent outbound channels
-    - No dialers allowed
-    - Apply Rates for outgoing calls
-    - 24/7 Tech Support
+    - 'Cloud telefonie systeem '
+    - '10 toestel aansluitingen gratis '
+    - '3 fysieke IP telefoons naar keuze '
+    - Onbeperkt aantal inkomende kanalen
+    - Maximaal 5 uitgaande gesprekken tegelijk
+    - 'Uitbellen volgens tarief '
     - PCMU, PCMA G729 codec support
     - All major VoIP cards supported
+    - 24/7 Technische Support
     button:
       label: Signup
       link: https://dial.cheap
