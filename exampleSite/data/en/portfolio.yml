@@ -22,7 +22,7 @@ portfolio:
     image: images/portfolio/T40P.jpg
     image_webp: images/portfolio/T40P.webp
     categories:
-    - medium
+    - recepcioniste
     content: 'High Level Receptionist Phone '
     link: https://www.yealink.com/product/voice-communication-t40p
   - name: Buro IP Telefoon
