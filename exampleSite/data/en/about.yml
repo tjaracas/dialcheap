@@ -1,16 +1,19 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Our Team build a solution based on todays Business telecommunications needs. Create it yourself or we help you setting it up.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Expect only the latest technological solutions from us. We are constantly adapting to the fast changing high tech world. 
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : This offcourse will provide you with a modern up to date professional state of the art Internet Telecommunication system .
+  enable: true
+  title: Over ons
+  about_item:
+  - icon: ti-ruler-pencil
+    title: Ons bedrijf
+    content: '15 jaar geleden gestart met telefonie over het internet voor het midden
+      en kleinbedrijf. Meegegroeid met de huidige mogelijkheden heeft ons team een
+      simpel maar effectief product ontwikkeld wat uw communicatie een geintegreerd
+      onderdeel maakt van uw core business. '
+  - icon: ti-cup
+    title: We're Professional
+    content: Expect only the latest technological solutions from us. We are constantly
+      adapting to the fast changing high tech world.
+  - icon: ti-thought
+    title: We're Genius
+    content: This offcourse will provide you with a modern up to date professional
+      state of the art Internet Telecommunication system .
