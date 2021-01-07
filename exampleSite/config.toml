@@ -46,7 +46,7 @@ weight = 6
 [[Languages.en.menu.main]]
 name = "Sign in"
 pre = ""
-url = "https://dial.cheap/"
+url = "https://dial.cheap/admin"
 weight = 7
 [params]
 author = "ikbelgoedkoop"
