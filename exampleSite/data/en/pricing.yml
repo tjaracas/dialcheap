@@ -35,18 +35,18 @@ pricing:
     button:
       label: Signup
       link: https://dial.cheap
-  - name: Phone Number
+  - name: Inkomend nummer
     price: "€5-25"
-    unit: month
+    unit: maand
     services:
-    - World Wide availability
-    - Registration Required
-    - Only add-on to Dial.Cheap
-    - Small charge on incoming calls
-    - Pricing differs per country
-    - On line registration and buying
-    - Monthly fee automatically charged
-    - Availability as it comes
+    - Wereld Wijde beschikbaarheid
+    - Registratie vereist
+    - Onderdeel van dial.cheap
+    - belasting op inkomend gesprek
+    - kostprijs verschilt per land
+    - On line registratie en aankoop
+    - 'Maandbedrag automatisch geiind. '
+    - 'beschikbaarheid as is '
     - 24/7 Tech Support
     button:
       label: Signup
