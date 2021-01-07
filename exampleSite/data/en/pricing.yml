@@ -1,21 +1,21 @@
 ---
 pricing:
   enable: true
-  title: Our Plans - All pricing in Euros.
+  title: 'Prijs Plan. Alle prijzen in euros. '
   pricing_table:
-  - name: Cloud Telephony
+  - name: Klein bedrijf of Starter
     price: FREE
     unit: month
     services:
-    - Free  Cloud Telephony system
-    - 3 Endpoints Free
-    - Additional endpoint 1 euro p/m
-    - Inbound number according tariff
-    - Free configurable Ring-groups
-    - Free configurable Voice-mail
-    - IVR on demand
-    - Apply Rates for outbound calls
-    - 24/7 online Tech Support
+    - 'Gratis cloud telefoon systeem '
+    - '3 toestel aansluitingen. Meer mogelijk tegen vergoeding. '
+    - Een recepcionist(e) plus twee gewone buro IPtelefoons
+    - Inkomend nummer niet gratis
+    - Ring groepen vrij configureerbaar.
+    - 'Gratis Voice-mail per toestel. '
+    - Antwoordapparaat mogelijkheid
+    - Uitbellen volgens tarief
+    - 24/7 online Technische Support
     button:
       label: Signup
       link: https://dial.cheap
