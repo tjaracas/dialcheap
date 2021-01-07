@@ -24,13 +24,13 @@ pricing:
     unit: maand
     services:
     - 'Cloud telefonie systeem '
-    - '10 toestel aansluitingen gratis '
+    - 10 toestel aansluitingen
     - '3 fysieke IP telefoons naar keuze '
-    - Onbeperkt NL vaste lijn*
-    - Max 10 gesprekken tegelijkertijd
+    - Belbundel NL fixed 100 minuten
+    - gratis inbelnummer
     - 'Uitbellen volgens tarief '
-    - inclusief Voice-Mail
-    - Antwoord apparaat mogelijk
+    - Voice-Mail
+    - Antwoord apparaat
     - 24/7 Tech Support
     button:
       label: Inschrijven
