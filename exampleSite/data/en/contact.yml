@@ -1,28 +1,22 @@
-############################## Contact #############################
+---
 contact:
-  enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : Dial.Cheap is a trademark of StartVoice NV. Our head office is based in Curacao. 
-  
-  # Contact details
+  enable: true
+  title: Contact opnemen
+  subtitle: Contact Details
+  content: Dial.Cheap / ikbelgoedkoop is a trademark of StartVoice NV. Ons hoofdkantoor
+    bevind zich in Curacao. .
   contact_list:
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "StartVoice NV E-Commerce Park Vreedenberg  Curacao - Caribbean"
-      
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone - Whatsapp: +5999 661 3109"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: info@startvoice.com"
-      
- 
-  # Contact form
+  - icon: ti-location-pin
+    info: StartVoice NV E-Commerce Park Vreedenberg  Curacao - Caribbean
+  - icon: ti-mobile
+    info: 'Phone - Whatsapp: +5999 661 3109'
+  - icon: ti-email
+    info: 'Email: info@startvoice.com'
   contact_form:
-    enable : true
-    form_action : "https://formspree.io/f/xpzooyqa" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    enable: true
+    form_action: https://formspree.io/f/xpzooyqa
+    name: Your Name
+    email: Your Email
+    subject: Subject
+    message: Message
+    submit: Submit
