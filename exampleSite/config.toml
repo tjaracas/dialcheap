@@ -54,7 +54,7 @@ pre = ""
 url = "https://dial.cheap/"
 weight = 7
 [params]
-author = "dialcheap"
+author = "ikbelgoedkoop"
 description = "ikbelgoedkoop. Overal bereikbaar en makkelijk te integreren met uw zakelijke vaste en mobiele nummers"
 google_analytics_id = "256941958"
 logo = "images/logo.png"
