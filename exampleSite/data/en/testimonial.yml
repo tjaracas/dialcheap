@@ -4,6 +4,15 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
+  - name: 'Michael '
+    image: ''
+    image_webp: ''
+    date: Jan 11. 2015
+    content: 'Als beginnende ondernemer zat ik erg tegen de kosten van mijn telecommunicatie
+      aan te hikken. Ook had ik problemen met de Cloud Telefonie omdat het me allemaal
+      te abstract overkwam. Eenmaal in contact met deze jongens werk ik nu al bijna
+      5 jaar met zeer grote tevredenheid met mijn eigen cloud telefonie systeem. En
+      welke kosten? '
   - name: Remco
     image: images/client/remco.jpg
     image_webp: images/client/remco.webp
