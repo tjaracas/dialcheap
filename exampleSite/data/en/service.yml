@@ -24,12 +24,15 @@ service:
       \nU heeft al internet telefoons en wilt omschakelen naar ons systeem? Dat kan
       natuurlijk ook. Kijk in onze Blog post naar de telefoons die er op dit moment
       aangesloten kunnen worden op ons systeem. "
-  - name: Your own Phone Number
+  - name: En dan nog dit
     icon: ti-blackboard
-    content: Any Company Telephone Private Network needs an incoming number so your
-      Hosted PBX can be reached. You can either move your existing number or ask for
-      any number in the world. Just go to the interface once you created an account
-      with us and order your number. Billing is 2 euro cent per minute on any incoming
-      call and we charge a small monthly fee. So now you can be reached on a local
-      number while you can be anywhere in the World! Local regulations apply according
-      the law.
+    content: "Elke onderneming heeft een zakelijk nummer nodig en dat verzorgen wij
+      natuurlijk ook voor u. Nieuwe regels in de telecommunicatie heeft er wel voor
+      gezorgd dat er niet meer zomaar wereldwijd nummers aangevraagd kunnen worden.
+      Toch zijn er veel zaken mogelijk zoals bijveerbeeld het aanvragen van speciale
+      niet geografisch gebonden nummers of nummers speciaal voor de zakelijke markt.
+      Denk aan 085 of 088 of zelfs een 0800 of 0900 nummer.\nWilt u met uw vestiging
+      nummers in het buitenland aanvragen dan dient u er wel rekening mee te houden
+      dat het nodige papierwerk wordt verlangd. U kunt ook uw reeds bestaande zakelijke
+      telefoon nummer naar ons laten porteren waarna het opgenomen wordt in uw internet
+      telefoon centrale.  "
