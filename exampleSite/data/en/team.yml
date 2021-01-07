@@ -66,9 +66,10 @@ team:
   - name: Kelly Felipe
     image_webp: images/team/kelly.webp
     image: images/team/kelly.jpg
-    designation: Marketing Specialist
-    content: Kelly makes sure that our product is what you need. We like to keep things
-      simple but effective.
+    designation: Marketing Specialiste
+    content: 'Kelly is  sinds kort onze social marketing specialiste. Ze heeft een
+      afgeronde universitaire opleiding in Marketing Strategies en helpt om ons bedrijf
+      een positie in de markt te geven.  '
     social:
     - icon: ti-facebook
       link: Https://www.facebook.com/dialcheap
