@@ -19,7 +19,7 @@ pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
+name = "diensten"
 pre = "#"
 url = "services"
 weight = 2
