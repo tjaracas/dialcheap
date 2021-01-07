@@ -1,102 +1,92 @@
-############################### team ############################
+---
 team:
-  enable : true
-  title : Our Team
-  team_member :
-    # team member loop
-    - name : Tjapko Smits
-      image_webp : images/team/tjapko.webp
-      image : images/team/tjapko.jpg
-      designation : CEO/Founder
-      content : Working in the field of Telecommunications all his life Tjapko created dial.cheap in 2002 together with Mike.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "Https://www.facebook.com/dialcheap"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.twitter.com/dial_cheap"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.linkedin.com/dialcheap"
-  #      - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-  #        link : "#"
-  
-   # team member loop
-    - name : Mike Tkachuk
-      image_webp : images/team/mike.webp
-      image : images/team/mike.jpg
-      designation : CTO/Founder.
-      content : Mike is our tech wizzard that build our complete solution. His team can tackle any technical telecommunications issue.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "Https://www.facebook.com/dialcheap"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.twitter.com/dial_cheap"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
-    - name : Carmen Gonzalez
-      image_webp : images/team/carmen.webp
-      image : images/team/carmen.jpg
-      designation : CFO / Administration
-      content : After obtaning a PHD in Business Administration Carmen joined our company in 2002 and since acting as our CFO.
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "Https://www.facebook.com/dialcheap"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.twitter.com/dial_cheap"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
- #       - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
- #         link : "#"
-        
-            
-    # team member loop
-    - name : Jessica Cabrera
-      image_webp : images/team/jessie.webp
-      image : images/team/jessie.jpg
-      designation : Rates / Tariffs Specialist
-      content : Jessica is responsible for analysing and maintaining our outbound rates up to date with our Tier 1 carriers. 
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "Https://www.facebook.com/dialcheap"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.twitter.com/dial_cheap"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-     
-    # team member loop
-    - name : Kelly Felipe
-      image_webp : images/team/kelly.webp
-      image : images/team/kelly.jpg
-      designation : Marketing Specialist
-      content : Kelly makes sure that our product is what you need. We like to keep things simple but effective.  
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "Https://www.facebook.com/dialcheap"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-    
-    # team member loop
-    - name : Dyron Figueroa
-      image_webp : images/team/dyron.webp
-      image : images/team/dyron.jpg
-      designation : Overseas marketing strategic planner. 
-      content : Dyron is allways on the move looking how the market moves and adapting it into your needs. 
-      social :
-        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
-          link : "Https://www.facebook.com/dialcheap"
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-          
+  enable: true
+  title: Ons Team
+  team_member:
+  - name: Tjapko Smits
+    image_webp: images/team/tjapko.webp
+    image: images/team/tjapko.jpg
+    designation: Oprichter Directeur
+    content: 'Vanaf 1982 werkzaam in de telecommuncatie business en opgegroeid met
+      het Internet en de toepassingen . Startvoice NV in 2010 opgericht samen met
+      Mike en ikbelgoedkoop is een onderdeel van dit bedrijf. '
+    social:
+    - icon: ti-facebook
+      link: Https://www.facebook.com/dialcheap
+    - icon: ti-twitter-alt
+      link: https://www.twitter.com/dial_cheap
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/dialcheap
+  - name: Mike Tkachuk
+    image_webp: images/team/mike.webp
+    image: images/team/mike.jpg
+    designation: CTO/Founder.
+    content: Mike is our tech wizzard that build our complete solution. His team can
+      tackle any technical telecommunications issue.
+    social:
+    - icon: ti-facebook
+      link: Https://www.facebook.com/dialcheap
+    - icon: ti-twitter-alt
+      link: https://www.twitter.com/dial_cheap
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Carmen Gonzalez
+    image_webp: images/team/carmen.webp
+    image: images/team/carmen.jpg
+    designation: CFO / Administration
+    content: After obtaning a PHD in Business Administration Carmen joined our company
+      in 2002 and since acting as our CFO.
+    social:
+    - icon: ti-facebook
+      link: Https://www.facebook.com/dialcheap
+    - icon: ti-twitter-alt
+      link: https://www.twitter.com/dial_cheap
+    - icon: ti-linkedin
+      link: "#"
+  - name: Jessica Cabrera
+    image_webp: images/team/jessie.webp
+    image: images/team/jessie.jpg
+    designation: Rates / Tariffs Specialist
+    content: Jessica is responsible for analysing and maintaining our outbound rates
+      up to date with our Tier 1 carriers.
+    social:
+    - icon: ti-facebook
+      link: Https://www.facebook.com/dialcheap
+    - icon: ti-twitter-alt
+      link: https://www.twitter.com/dial_cheap
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Kelly Felipe
+    image_webp: images/team/kelly.webp
+    image: images/team/kelly.jpg
+    designation: Marketing Specialist
+    content: Kelly makes sure that our product is what you need. We like to keep things
+      simple but effective.
+    social:
+    - icon: ti-facebook
+      link: Https://www.facebook.com/dialcheap
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
+  - name: Dyron Figueroa
+    image_webp: images/team/dyron.webp
+    image: images/team/dyron.jpg
+    designation: Overseas marketing strategic planner.
+    content: Dyron is allways on the move looking how the market moves and adapting
+      it into your needs.
+    social:
+    - icon: ti-facebook
+      link: Https://www.facebook.com/dialcheap
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+    - icon: ti-dribbble
+      link: "#"
