@@ -15,14 +15,15 @@ service:
       Internet zijn ook de telefoons vervangen door Internet Telefoons die eruit zien
       als gewone telefoons maar ook een App op een mobieltje of Ipad of Desktop kan
       de ouderwetste telefoon doen vervangen.
-  - name: Sip Trunking
+  - name: 'U heeft al een internet geschikt telefoonsysteem? '
     icon: ti-layout
-    content: SIP trunking is a way that we link your phone system to the public phone
-      network, which in turn allows your calls to take place over your Internet connection.
-      This technology makes your communications more efficient, less expensive, and
-      of a higher quality. SIP trunking allows you to fall back on your already existent
-      high speed Internet connection, reducing costs. So, if your existing phone system
-      comes prepared with VoIP integration than you can make use of our SIP trunking.
+    content: "In dit geval kunt u dan de in- en uitgaande gesprekken moeiteloos via
+      ons bedrijf laten verwerken en bespaart u in sommige gevallen wel tot 80% van
+      de gebruikelijke telecommunicatie provider kosten. Uw centrale dient voorzien
+      te zijn van een speciale kaart die de verbinding met het Internet mogelijk maakt.
+      \nU heeft al internet telefoons en wilt omschakelen naar ons systeem? Dat kan
+      natuurlijk ook. Kijk in onze Blog post naar de telefoons die er op dit moment
+      aangesloten kunnen worden op ons systeem. "
   - name: Your own Phone Number
     icon: ti-blackboard
     content: Any Company Telephone Private Network needs an incoming number so your
