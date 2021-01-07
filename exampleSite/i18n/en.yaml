@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Laatste Post
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: bekijk alles
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -13,15 +13,15 @@
 - id: all
   translation: All
 - id: about
-  translation: About Us
+  translation: Over ons
 - id: services
-  translation: Service
+  translation: Diensten
 - id: portfolio
-  translation: Portfolio
+  translation: Portofolio
 - id: team
   translation: Team
 - id: pricing
-  translation: Pricing
+  translation: Prijzen
 - id: blog
   translation: Blog
 - id: contact
