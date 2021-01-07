@@ -4,7 +4,7 @@ pricing:
   title: Prijs Plan voor Midden en Klein Bedrijf
   pricing_table:
   - name: KB of Starter
-    price: GRATIS
+    price: Gratis
     unit: maand
     services:
     - 'Gratis cloud telefoon systeem '
