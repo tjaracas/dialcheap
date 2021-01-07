@@ -4,8 +4,8 @@ pricing:
   title: 'Prijs Plan. Alle prijzen in euros. '
   pricing_table:
   - name: Klein bedrijf of Starter
-    price: FREE
-    unit: month
+    price: Gratis
+    unit: maand
     services:
     - 'Gratis cloud telefoon systeem '
     - '3 toestel aansluitingen. Meer mogelijk tegen vergoeding. '
