@@ -50,9 +50,10 @@ team:
     image_webp: images/team/jessie.webp
     image: images/team/jessie.jpg
     designation: 'Tarieven specialiste '
-    content: 'Jessica is verantwoordelijk voor het up to date houden van de sterk
-      wisselende tarieven voor uitbellen vanaf ons systeem. Zij zorgt ervoor dat u
-      voor elke gekozen route de beste kwaliteit heeft en de goedkoopste prijs betaald. '
+    content: 'Jessica is sinds het begin verantwoordelijk voor het up to date houden
+      van de sterk wisselende tarieven voor uitbellen vanaf ons systeem. Zij zorgt
+      ervoor dat u voor elke gekozen route de beste kwaliteit heeft en de goedkoopste
+      prijs betaald. '
     social:
     - icon: ti-facebook
       link: Https://www.facebook.com/dialcheap
