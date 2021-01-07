@@ -14,12 +14,7 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "terms and conditions"
-pre = "#"
-url = "terms"
-weight = "8"
-[[Languages.en.menu.main]]
-name = "about"
+name = "over ons"
 pre = "#"
 url = "about"
 weight = 1
