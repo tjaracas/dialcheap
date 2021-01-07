@@ -36,9 +36,9 @@ team:
   - name: Carmen Gonzalez
     image_webp: images/team/carmen.webp
     image: images/team/carmen.jpg
-    designation: CFO / Administration
-    content: After obtaning a PHD in Business Administration Carmen joined our company
-      in 2002 and since acting as our CFO.
+    designation: Financiele directeur
+    content: 'Carmen heeft na het behalen van haar MBA in Business Administration
+      bijgedragen aan het financieel vormgeven van ons bedrijf sinds 2002. '
     social:
     - icon: ti-facebook
       link: Https://www.facebook.com/dialcheap
