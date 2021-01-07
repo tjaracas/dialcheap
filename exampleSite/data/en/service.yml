@@ -15,7 +15,7 @@ service:
       Internet zijn ook de telefoons vervangen door Internet Telefoons die eruit zien
       als gewone telefoons maar ook een App op een mobieltje of Ipad of Desktop kan
       de ouderwetste telefoon doen vervangen.
-  - name: 'U heeft al een internet geschikt telefoonsysteem? '
+  - name: 'U heeft al een Internet telefoonsysteem? '
     icon: ti-layout
     content: "In dit geval kunt u dan de in- en uitgaande gesprekken moeiteloos via
       ons bedrijf laten verwerken en bespaart u in sommige gevallen wel tot 80% van
