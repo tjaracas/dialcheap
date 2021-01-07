@@ -27,7 +27,7 @@ pricing:
     - '10 toestel aansluitingen gratis '
     - '3 fysieke IP telefoons naar keuze '
     - Onbeperkt aantal inkomende kanalen
-    - Maximaal 5 uitgaande gesprekken tegelijk
+    - Max 10 gesprekken tegelijkertijd
     - 'Uitbellen volgens tarief '
     - inclusief Voice-Mail
     - Antwoord apparaat mogelijk
@@ -35,14 +35,14 @@ pricing:
     button:
       label: Signup
       link: https://dial.cheap
-  - name: Inkomend nummer
+  - name: Inbelnummer
     price: "€5-25"
     unit: maand
     services:
     - Wereld Wijde beschikbaarheid
     - Registratie vereist
-    - Onderdeel van dial.cheap
-    - belasting op inkomend gesprek
+    - Onderdeel van ikbelgoedkoop
+    - prijs per seconde
     - kostprijs verschilt per land
     - On line registratie en aankoop
     - 'Maandbedrag automatisch geiind. '
