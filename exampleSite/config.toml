@@ -14,6 +14,11 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
+name = "terms and conditions"
+pre = "#"
+url = "terms"
+weight = "8"
+[[Languages.en.menu.main]]
 name = "about"
 pre = "#"
 url = "about"
@@ -44,19 +49,14 @@ pre = "#"
 url = "contact"
 weight = 6
 [[Languages.en.menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 7
-[[Languages.en.menu.main]]
 name = "Sign in"
 pre = ""
 url = "https://dial.cheap/"
-weight = 8
+weight = 7
 [params]
 author = "dialcheap"
-description = "Dial Cheap your Internet Cloud Telephony provider with Voice over IP telecommunications"
-google_analytics_id = "UA-186366734-1"
+description = "ikbelgoedkoop. Overal bereikbaar en makkelijk te integreren met uw zakelijke vaste en mobiele nummers"
+google_analytics_id = "256941958"
 logo = "images/logo.png"
 post_share = true
 [params.cookies]
