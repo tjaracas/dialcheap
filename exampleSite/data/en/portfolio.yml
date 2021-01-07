@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Beschikbare IP telefoons
   portfolio_item:
-  - name: 6 line IP phone
+  - name: 6 lijns IP phone
     image: images/portfolio/t27g.jpg
     image_webp: images/portfolio/t27g.webp
     categories:
