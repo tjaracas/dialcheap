@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Ga Verder
-    link: "#about"
+    link: "#service"
