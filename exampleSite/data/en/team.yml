@@ -20,9 +20,10 @@ team:
   - name: Mike Tkachuk
     image_webp: images/team/mike.webp
     image: images/team/mike.jpg
-    designation: CTO/Founder.
-    content: Mike is our tech wizzard that build our complete solution. His team can
-      tackle any technical telecommunications issue.
+    designation: Oprichter en Technisch Directeur.
+    content: 'Mike heeft met zijn team de hele onderliggende telecommunicatie software
+      applicatie zelf ontworpen en geschreven. Samen met Tjapko deze business opgezet
+      en hiervoor ook al geruime tijd werkzaam in de telecommunicatie business. '
     social:
     - icon: ti-facebook
       link: Https://www.facebook.com/dialcheap
