@@ -29,8 +29,8 @@ pricing:
     - Onbeperkt aantal inkomende kanalen
     - Maximaal 5 uitgaande gesprekken tegelijk
     - 'Uitbellen volgens tarief '
-    - PCMU, PCMA G729 codec support
-    - All major VoIP cards supported
+    - inclusief Voice-Mail
+    - Antwoord apparaat mogelijk
     - 24/7 Technische Support
     button:
       label: Signup
