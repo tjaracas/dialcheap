@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: IkBelGoedkoop Cloud Telefonie
-  content: 'Overal ter wereld bereikbaar en super makkelijke integratie! '
+  title: Cloud Telefonie
+  content: 'Overal ter wereld bereikbaar! '
   button:
     enable: true
     label: Ga Verder
-    link: "#service"
+    link: "#about"
