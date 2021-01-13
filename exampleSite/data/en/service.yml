@@ -3,7 +3,7 @@ service:
   enable: true
   title: Ons Product
   service_item:
-  - name: Cloud Telefonie Systeem
+  - name: Cloud [Telefonie Systeem](https://dial.cheap/admin)
     icon: ti-world
     content: 'Stel u voor als startup of als midden- of klein bedrijf en u wilt bereikbaar
       zijn voor de buitenwereld op uw zakelijke nummer. Met de komst van het Internet
