@@ -3,32 +3,48 @@ portfolio:
   enable: true
   title: Beschikbare IP telefoons
   portfolio_item:
-  - name: 6 lijns IP phone
-    image: images/portfolio/t27g.jpg
-    image_webp: images/portfolio/t27g.webp
-    categories:
-    - recepcioniste
-    content: 'superior voice capabilities and increased function extension capability
-      for business. '
-    link: https://www.yealink.com/product/voice-communication-t27g
-  - name: Video Phone
-    image: images/portfolio/t48s.jpg
-    image_webp: images/portfolio/t48s.webp
-    categories:
-    - Video
-    content: 'T48S High End video Phone '
-    link: https://www.yealink.com/product/voice-communication-t48s
-  - name: Recepcionst Ip telefoon
-    image: images/portfolio/T40P.jpg
-    image_webp: images/portfolio/T40P.webp
-    categories:
-    - recepcioniste
-    content: 'High Level Receptionist Phone '
-    link: https://www.yealink.com/product/voice-communication-t40p
   - name: Buro IP Telefoon
-    image: images/portfolio/ip19.jpg
-    image_webp: images/portfolio/ip19.webp
+    image: images/portfolio/T42S.jpg
+    image_webp: images/portfolio/T42S.webp
     categories:
     - buro telefoon
-    content: 'SIP Entry level IP PHone '
+    content: Yealink SIP-T42S VoIP telefoon De Yealink SIP-T42S VoIP telefoon is de
+      opvolger van de Yealink SIP-T42P en beschikt over nieuwe functies en een verbeterde
+      geluidskwaliteit. De VoIP-telefoon met 12 lijnen blinkt uit in veelzijdigheid
+      en is onder meer voorzien van een helder 2,7" beeldscherm en een USB-aansluiting.  Lees
+      meer Eigenschappen Yealink SIP-T42S  12 gelijktijdige gesprekken en 12 SIP accounts
+      HD geluidskwaliteit en glashelder 2,7" LCD scherm 2x Gigabit LAN-aansluiting
+      Headsetaansluiting met EHS ondersteuning PoE ondersteuning, normale voeding
+      los te bestellen USB poort voor Bluetooth, WiFi of USB-opslagapparaat Opus codec
+      voor verbeterde geluidskwaliteit HAC (geschikt voor slechthorenden) Lokaal gesprekken
+      opnemen  Bureautoestel voor VoIP De Yealink SIP-T42S is de opvolger van de populaire
+      Yealink SIP-T42P en is voorzien van een aantal verbeteringen en nieuwe functionaliteiten.
+      Zo ondersteunt deze telefoon 12 SIP accounts in plaats van 3 en is de geluidskwaliteit
+      flink verbeterd. Het heldere 2,7" LCD scherm (192x64p) zorgt ervoor dat alle
+      belangrijke informatie (zoals het nummer en de contactpersoon) in één oogopslag
+      te lezen is.  Fantastische HD geluidskwaliteit Het geluid van de Yealink SIP-T42S
+      wordt door de Opus codec naar een hoger niveau getild. Opus levert een hogere
+      HD audiokwaliteit dan andere codecs. De stem van uw gesprekspartner komt dus
+      altijd helder en natuurgetrouw over. Een ander pluspunt van de Yealink SIP-T42S
+      is dat deze HAC (Hearing Aid Compatible) is, wat het toestel ook geschikt maakt
+      voor slechthorenden.  USB-aansluiting Nieuw aan de Yealink SIP-T42S is de geïntegreerde
+      USB-aansluiting waarmee u eventueel extra functionaliteiten kunt toevoegen.
+      Sluit bijvoorbeeld een Bluetooth- of WiFi-dongel aan op het toestel om draadloos
+      verbinding te maken of een draadloze headset te koppelen. Voor het lokaal opnemen
+      van gesprekken kunt u gebruikmaken van een extern USB-opslagapparaat. Handig
+      als u gesprekken nog eens terug wilt luisteren.  PoE en headsetaansluiting De
+      Yealink SIP-T42S is uitgerust met twee Gigabit (1000 Mbps) LAN-aansluitingen
+      met ondersteuning voor Power over Ethernet (PoE). Met deze aansluitingen kunt
+      u het toestel doorlussen naar een computer en tegelijkertijd van voeding voorzien.
+      Hiervoor heeft u nog wel een PoE-switch nodig. Ook zit er een headsetaansluiting
+      (RJ9) met EHS ondersteuning op het toestel. Zo kan een gesprek op afstand worden
+      aangenomen wanneer u een draadloze headset gebruikt.  Auto-provisioning voor
+      snelle installatie Gaat u meerdere Yealink SIP-T42S toestellen installeren,
+      dan gaat dit extra makkelijk dankzij auto-provisioning. Dit houdt in dat u door
+      middel van één template alle toestellen in het netwerk in één keer kunt configureren.
+      Wanneer u een nieuw toestel aansluit, neemt deze automatisch de instellingen
+      van het template over. Dit zorgt er ook voor dat bedrijven weinig tijd kwijt
+      zijn aan het beheer en het up-to-date houden van de toestellen.  Inhoud verpakking  Yealink
+      SIP-T42S Handset met snoer Ethernetkabel (2m CAT5E UTP Cable) Standaard Quick
+      Start Guide
     link: https://www.yealink.com/product/voice-communication-t19pe2
