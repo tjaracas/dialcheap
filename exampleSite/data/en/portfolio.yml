@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Beschikbare IP telefoons
   portfolio_item:
+  - name: Buro VoIP Telefoon
+    image: images/portfolio/T46S.jpg
+    image_webp: images/portfolio/T46S.webp
+    categories:
+    - mid level
+    content: Yealink SIP-T46S VoIP telefoon
+    link: https://www.voipshop.nl/yealink-sip-t46s/pid=54025
   - name: Buro IP Telefoon
     image: images/portfolio/T42S.jpg
     image_webp: images/portfolio/T42S.webp
