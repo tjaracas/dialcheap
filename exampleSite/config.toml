@@ -34,20 +34,25 @@ pre = "#"
 url = "pricing"
 weight = 4
 [[Languages.en.menu.main]]
+name = "portfolio"
+pre = "#"
+url = "portfolio"
+weight = 5
+[[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
-weight = 5
+weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
-weight = 6
+weight = 7
 [[Languages.en.menu.main]]
 name = "Sign in"
 pre = ""
 url = "https://dial.cheap/admin"
-weight = 7
+weight = 8
 [params]
 author = "ikbelgoedkoop"
 description = "ikbelgoedkoop. Overal bereikbaar en makkelijk te integreren met uw zakelijke vaste en mobiele nummers"
