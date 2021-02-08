@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: 'Beschikbare IP telefoons via Voipshop.nl '
+  title: 'Beschikbare IP telefoons via https://www.Voipshop.nl '
   portfolio_item:
   - name: Buro IP Telefoon
     image: images/portfolio/T21P.jpg
