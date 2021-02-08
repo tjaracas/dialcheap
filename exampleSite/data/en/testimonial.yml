@@ -4,9 +4,9 @@ testimonial:
   bg_image: images/backgrounds/bg-testimonial.jpg
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
-  - name: 'Michael '
-    image: ''
-    image_webp: ''
+  - name: Sjors
+    image: images/client/sjors.jpg
+    image_webp: images/client/sjors.webp
     date: Jan 11. 2015
     content: 'Als beginnende ondernemer zat ik erg tegen de kosten van mijn telecommunicatie
       aan te hikken. Ook had ik problemen met de Cloud Telefonie omdat het me allemaal
@@ -43,3 +43,10 @@ testimonial:
     content: Being a headhunter with our main office in London we travel all around
       the world looking for prospects. Our reachability is number 1 and we achieved
       this with dial.cheap.
+  - name: Jennifer Gomperts
+    image: images/client/Jennifer.jpg
+    image_webp: images/client/Jennifer.webp
+    date: Sept 14, 2017
+    content: Door mijn nomadische activiteiten past ikbelgoedkoop uitstekend bij mijn werkzaamheden. 
+      Ik kan gebeld woorden waar ik ben en uitbellen tegen scherpe tarieven. Als grafisch ontwerper ben 
+      ik ook verantwoordelijk voor de animaties van ikbelgoedkoop. 
