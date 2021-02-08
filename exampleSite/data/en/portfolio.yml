@@ -4,6 +4,12 @@ portfolio:
   title: Beschikbare IP telefoons
   portfolio_item:
   - name: Buro IP Telefoon
+    image: images/
+    image_webp: ''
+    categories: ''
+    content: ''
+    link: ''
+  - name: Buro IP Telefoon
     image: images/portfolio/T46S.jpg
     image_webp: images/portfolio/T46S.webp
     categories:
