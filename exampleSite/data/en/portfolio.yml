@@ -4,11 +4,12 @@ portfolio:
   title: Beschikbare IP telefoons
   portfolio_item:
   - name: Buro IP Telefoon
-    image: images/
-    image_webp: ''
-    categories: ''
-    content: ''
-    link: ''
+    image: images/portfolio/T21P.jpg
+    image_webp: images/portfolio/T21P.webp
+    categories:
+    - 'instap '
+    content: " Yealink SIP-T21P VoIP telefoon"
+    link: https://www.voipshop.nl/yealink-sip-t21p-voip-telefoon-voor-2-lijnen/pid=36659
   - name: Buro IP Telefoon
     image: images/portfolio/T46S.jpg
     image_webp: images/portfolio/T46S.webp
