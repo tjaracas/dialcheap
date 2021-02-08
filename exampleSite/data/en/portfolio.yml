@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Beschikbare IP telefoons
   portfolio_item:
-  - name: Buro VoIP Telefoon
+  - name: Buro IP Telefoon
     image: images/portfolio/T46S.jpg
     image_webp: images/portfolio/T46S.webp
     categories:
